@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Marcapada RPG
 
 You can use the [editor on GitHub](https://github.com/rtlh0/marcarpg/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
